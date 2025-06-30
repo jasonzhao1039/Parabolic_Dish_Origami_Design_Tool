@@ -4,7 +4,7 @@ This script generates a parabolic origami (reflector) by folding a paraboloid su
 
 ## How to modify the parameters
 
-Open `Parabolic_Origami0.m` and locate the section marked **Parameter settings**. Change the values as needed:
+Open **[Parabolic_Origami0.m](./Parabolic_Origami0.m)** and locate the section marked **Parameter settings**. Change the values as needed:
 
 ```matlab
 %% Parameter settings
