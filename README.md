@@ -26,4 +26,4 @@ nPieces  = 20;               % Number of petals
 
 ## Further reading
 
-see **[Report.pdf](./Report.pdf)** for a detailed explanation of the underlying code and mathematics alogrithm.
+See **[Report.pdf](./Report.pdf)** for a detailed explanation of the underlying code and mathematics alogrithm.
