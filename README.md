@@ -1,5 +1,11 @@
 # Parabolic Origami
 
+
+<p align="center">
+  <img src="./para3.jpg" alt="Parabolic Origami 展示图" width="400" />
+</p>
+
+
 This script generates a parabolic origami (reflector) by folding a paraboloid surface into petals. You can adjust its shape by editing the parameters in **[Parabolic_Origami0.m](./Parabolic_Origami0.m)**.
 
 ## Alogrithm
