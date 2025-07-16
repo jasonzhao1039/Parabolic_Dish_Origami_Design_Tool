@@ -2,6 +2,10 @@
 
 This script generates a parabolic origami (reflector) by folding a paraboloid surface into petals. You can adjust its shape by editing the parameters in **[Parabolic_Origami0.m](./Parabolic_Origami0.m)**.
 
+## Alogrithm
+
+See **[Report.pdf](./Report.pdf)** for the explanation of the underlying code and mathematics alogrithm.
+
 ## How to modify the parameters
 
 Open **[Parabolic_Origami0.m](./Parabolic_Origami0.m)** and locate the section marked `Parameter settings`. Change the values as needed:
@@ -24,6 +28,3 @@ nPieces  = 20;               % Number of petals
 - `y`: A MATLAB vector of heights from 0 up to `ymax`.  
 - `nPieces`: The number of fold‑out petals in the origami.
 
-## Further reading
-
-see **[Report.pdf](./Report.pdf)** for a detailed explanation of the underlying code and mathematics alogrithm.
